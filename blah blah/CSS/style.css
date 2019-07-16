@@ -1,0 +1,42 @@
+body{ 
+    background-image:Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);}
+.test{
+
+    display: inline-block;
+    font-family:Arial;
+    font-style: oblique;
+    font-size: 20px;
+    margin-bottom: 0px;
+    margin-left:0px;
+    margin-right: 25px;
+}
+a:hover{
+    color: red;
+}
+#left{
+margin-left: 250px;
+}
+
+ul li a{
+    color:white;
+    text-decoration: none;
+
+    
+}
+h1{
+    color:white;
+    font-family: Arial;
+    font-size:30px;
+}
+#img2{
+    margin-left:40px;
+    margin-right:40px;
+
+}
+.image:hover{ color: black;
+    opacity:0.5;
+    }

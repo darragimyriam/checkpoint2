@@ -1,0 +1,64 @@
+body{ 
+    background-image:Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);}
+    .test{
+
+        display: inline-block;
+        font-family:arial;
+        font-style: oblique;
+        font-size: 20px;
+        margin-bottom: 0px;
+        margin-left:0px;
+        margin-right: 25px;
+    }
+    a:hover{
+        color: red;
+    }
+    #left{
+    margin-left: 250px;
+    }
+    
+    ul li a{
+        color:white;
+        text-decoration: none;
+    
+        
+    }
+    .header{
+        height: 400px;
+        background-image: url(http://1.bp.blogspot.com/-TtqqpYhhkpE/VlstEHJvPWI/AAAAAAAAHa4/HK_VVcFBSAQ/s1600/Programmer-Developer-Wallpaper.jpg);
+        background-size: cover;
+        background-position: center;
+        margin-bottom: 60px;
+        color: white;
+        
+    }
+    .image{
+        margin-left:40px;
+        margin-right: 40px;
+    }
+    .a{
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+    h1{
+        color: white;
+        font-family:Arial;
+        font-size:30px;
+
+    }
+    .img:hover{
+
+        opacity:0.5;
+
+    }
+    
+    .img{
+        height: 247px;
+        width: 249px;
+    }
+
+
